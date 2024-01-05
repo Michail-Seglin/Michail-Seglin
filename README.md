@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Michail. 👨‍💻
+<h1 align="center">Hi there, I'm Michail
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
 **Michail-Seglin/Michail-Seglin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
