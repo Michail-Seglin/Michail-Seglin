@@ -4,4 +4,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Michail-Seglin&theme=prussian)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Michail-Seglint&theme=prussian)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Michail-Seglin&theme=prussian)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Michail-Seglin&theme=prussian)
