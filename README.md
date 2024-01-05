@@ -2,12 +2,12 @@
 
 I am a highly skilled Full Stack Developer. Here's a brief overview of the technologies I specialize in: 
 
-Web Technologies: Node.js, Express, React, Redux Toolkit, RTK Query, Bootstrap, Material UI, Mantine, Mongoose, JWT, Swagger(OpenAPI), HTML/HTML5, CSS/CSS3, LESS, SASS, Webpack, Babel, Bash
-Application Servers: Node.js
-Databases: PostgreSQL, MySQL, MongoDB
-Operating Systems: Windows family, MacOS, Linux
-Other Skills: Git
-Foreign Languages: English Basic
+Web Technologies: Node.js, Express, React, Redux Toolkit, RTK Query, Bootstrap, Material UI, Mantine, Mongoose, JWT, Swagger(OpenAPI), HTML/HTML5, CSS/CSS3, LESS, SASS, Webpack, Babel, Bash <br/>
+Application Servers: Node.js <br/>
+Databases: PostgreSQL, MySQL, MongoDB <br/>
+Operating Systems: Windows family, MacOS, Linux <br/>
+Other Skills: Git <br/>
+Foreign Languages: English Basic <br/>
 
 Please feel free to reach out with any questions or inquiries. You can contact me at mihailsavuskin13@gmail.com
 
